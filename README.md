@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 I’m currently working on science and learning some computing;
 - 🌱 I’m looking to collaborate on Planetary Health 🤝;
 - 🤔 I’m looking for some partners interested on making music, environmental issues and mountains;
-- 💬 Ask me about anything, then I will decide if I answer or not;
+- 💬 Ask me about anything, then I will decide if I answer/ do not answer you;
 - ⚡️ Fun-Fact: *my life in general(?)*;
 - 📫 How to reach me: *secret*;
 

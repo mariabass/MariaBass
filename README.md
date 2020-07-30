@@ -8,7 +8,6 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mariabass/MariaBass)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-martin296/)
 
-
 &nbsp;
 
 <!-- Talking about you -->
